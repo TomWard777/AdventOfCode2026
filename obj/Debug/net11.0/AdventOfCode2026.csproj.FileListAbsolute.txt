@@ -1,0 +1,16 @@
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\bin\Debug\net11.0\AdventOfCode2026.exe
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\bin\Debug\net11.0\AdventOfCode2026.deps.json
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\bin\Debug\net11.0\AdventOfCode2026.runtimeconfig.json
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\bin\Debug\net11.0\AdventOfCode2026.runtimeconfig.dev.json
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\bin\Debug\net11.0\AdventOfCode2026.dll
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\bin\Debug\net11.0\AdventOfCode2026.pdb
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.AssemblyInfoInputs.cache
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.AssemblyInfo.cs
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.csproj.CoreCompileInputs.cache
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.dll
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\refint\AdventOfCode2026.dll
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.pdb
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.genruntimeconfig.cache
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\ref\AdventOfCode2026.dll
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOf.380E03F5.Up2Date
