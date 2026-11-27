@@ -14,3 +14,4 @@ C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOf
 C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.genruntimeconfig.cache
 C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\ref\AdventOfCode2026.dll
 C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOf.380E03F5.Up2Date
+C:\Users\Tom\OneDrive\Desktop\GitHub\AdventOfCode2026\obj\Debug\net11.0\AdventOfCode2026.sourcelink.json

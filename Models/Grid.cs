@@ -4,8 +4,6 @@ namespace AdventOfCode2026;
 
 public class Grid //: IEnumerable<IEnumerable<T>>
 {
-    // TODO [TW] Try and implement something like Queue in C#
-    // https://github.com/dotnet/dotnet/blob/297acf930fb0f5c07fd4e51d78e521b4ad2e5d1f/src/runtime/src/libraries/System.Private.CoreLib/src/System/Collections/Generic/Queue.cs#L39C9-L43C10
     public int _yMax { get; set; }
     public int _xMax { get; set; }
     private char[,] _array;
@@ -30,6 +28,10 @@ public class Grid //: IEnumerable<IEnumerable<T>>
         }
     }
 
+    public int Width() => _xMax + 1;
+    public int Height() => _yMax + 1;
+    public char Value(int x, int y) => _array[x, y];
+
     public void Print()
     {
         for (int y = _yMax; y >= 0; y--)
@@ -42,18 +44,4 @@ public class Grid //: IEnumerable<IEnumerable<T>>
         }
         Console.WriteLine();
     }
-
-    /*
-    public static (int, int, char[][]) ReadToMatrixTuple(IEnumerable<string> input)
-    {
-        var m = input.Count();
-        var n = input.First().Length;
-
-        var mat = input
-        .Select(x => x.ToCharArray())
-        .ToArray();
-
-        return (m, n, mat);
-    }
-    */
 }

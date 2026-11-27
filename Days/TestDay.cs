@@ -9,7 +9,10 @@ public class TestDay
 
     public void Run()
     {
-        var grid = new Grid(_input);
+        //var grid = new Grid(_input);
+        var inputString = FileParser.ReadMultilineStringFromFile("TestGridInput.txt");
+        
+        var grid = new Grid(inputString);
 
         Console.WriteLine($"\nPrint test \n");
         grid.Print();

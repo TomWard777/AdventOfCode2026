@@ -2,6 +2,11 @@ namespace AdventOfCode2026;
 
 public static class FileParser
 {
+    public static string ReadMultilineStringFromFile(string fileName)
+    {
+        var path = GetFilePath(fileName);
+        return File.ReadAllText(path);
+    }
     public static IEnumerable<string> ReadInputFromFile(string fileName)
     {
         var path = GetFilePath(fileName);
